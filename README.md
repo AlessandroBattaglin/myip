@@ -1,2 +1,1 @@
-# myip
-A python program that show you you'r ip!
+# __*My Public Ip*__

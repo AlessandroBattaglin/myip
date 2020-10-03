@@ -7,7 +7,7 @@
 ## How to install it:
 
 ```
-git clone https://github.com/AlessandroBattaglin/myip
+git clone https://github.com/AlessandroBattaglin/myip.git
 
 pip install -r requirements
 ```
